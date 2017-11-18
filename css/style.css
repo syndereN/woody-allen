@@ -19,7 +19,8 @@ ul {
 }
 
 .main {
-  margin: 25px 50px;
+  margin: 25px auto;
+  max-width: 1200px;
 }
 
 .main ul li {
